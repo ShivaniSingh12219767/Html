@@ -1,0 +1,21 @@
+body{
+    background-image:url("Assets/BackgroundImage.jpg");
+    background-color:bisque;
+    background-repeat:no-repeat;
+
+}
+img{
+    border-radius:50%;
+    width:25%;
+}
+
+p{
+    font-family:Lucida Sans;
+    color:aqua;
+    font-size:20px;
+    text-align:center;
+
+}
+h1{
+    color:green;
+}
