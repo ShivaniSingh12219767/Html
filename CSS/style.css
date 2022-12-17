@@ -1,0 +1,12 @@
+table,th,td{
+    border:5px solid rgb(231, 8, 231);
+    border-collapse: collapse;
+}
+th{
+    border:2px solid red;
+    color:green;
+    height:50px;
+}
+td{
+    border:2px solid black;
+}
