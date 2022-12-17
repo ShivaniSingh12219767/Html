@@ -1,0 +1,10 @@
+table,th,td{
+    border:2px solid rgb(19, 19, 19);
+    border-collapse:separate;
+    border-spacing:10px;
+    background-color:rgb(190, 230, 12);
+}
+th,td{
+    background-color:rgb(95, 228, 235);
+    padding:5px;
+}
